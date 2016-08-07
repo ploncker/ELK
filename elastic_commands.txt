@@ -1,0 +1,7 @@
+Elastic commands
+
+C:\Elk\elasticsearch\bin>service manage
+
+C:\Elk\elasticsearch\bin>plugin install mobz/elasticsearch-head
+
+C:\Elk\kibana\bin>kibana
